@@ -1,10 +1,14 @@
-=== Tag Gallery ===
-Contributors: johnnypeck
+=== Tag Gallery TC ===
+Contributors: johnnypeck, tristancollins
 Donate link: http://johnnypeck.com
 Tags: gallery, valid-xhtml, media-tags, tags, thumnails
 Requires at least: 2.9
 Tested up to: 3.2.1
 Stable tag: 0.2.0
+
+An update to Tag Gallery to allow slug-based tag galleries.
+
+See: http://www.tristancollins.me/computing/slug-based-media-tag-galleries-in-wordpress
 
 Create a gallery, similar to gallery shortcode, but gets images by tag from media library. The CSS and column logic used is from Justin Tadlock.
 
